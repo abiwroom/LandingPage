@@ -109,7 +109,7 @@ header {
 .content {
     margin-left: 270px; /* jarak dari sidebar */
     padding: 40px;
-    margin-top: -570px; /* menyesuaikan posisi header + sidebar */
+    margin-top: -590px; /* menyesuaikan posisi header + sidebar */
 }
 
 /* Artikel seperti blog */
