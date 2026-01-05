@@ -47,7 +47,7 @@ header {
 
 .nav-main.menu {
     width: 290px;
-    height: 73vh; /**/
+    height: 79vh; /**/
     background: var(--primary-color);
     list-style: none; /* Menghilangkan bullet points */
     padding: 0; /*jarak kiri-kanan*/
@@ -109,7 +109,7 @@ header {
 .content {
     margin-left: 270px; /* jarak dari sidebar */
     padding: 40px;
-    margin-top: -700px; /* menyesuaikan posisi header + sidebar */
+    margin-top: -800px; /* menyesuaikan posisi header + sidebar */
 }
 
 /* Artikel seperti blog */
